@@ -14691,3 +14691,149 @@
 {"Time":"2024-02-02T15:18:39Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"28.640us","Min":"0.000ns","P50":"653.500us","P90":"0.000ns","P95":"0.000ns","P99":"503.900us","P999":"545.500us","P9999":"553.800us","Max":"553.800us"}
 {"Time":"2024-02-02T15:18:40Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"27.314us","Min":"0.000ns","P50":"598.300us","P90":"0.000ns","P95":"0.000ns","P99":"503.300us","P999":"533.100us","P9999":"555.400us","Max":"555.400us"}
 {"Time":"2024-02-02T15:18:40Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:32:48Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:32:49Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp6 :0-\u003e[::1]:8888: connectex: No connection could be made because the target machine actively refused it."}
+{"Time":"2024-02-03T10:33:25Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:33:26Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp6 :0-\u003e[::1]:8888: connectex: No connection could be made because the target machine actively refused it."}
+{"Time":"2024-02-03T10:33:50Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:33:51Z","Title":"","Type":"INFO","Message":"[596] local ::1 port 51169 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:33:52Z","Title":"","Type":"INFO","Message":"- - - - - - - - - - - - - - - - - - - - - - -"}
+{"Time":"2024-02-03T10:33:52Z","Title":"","Type":"INFO","Message":"[  ID ]   Protocol    Interval      Bits/s"}
+{"Time":"2024-02-03T10:33:52Z","Title":"","Type":"INFO","Message":"[  596]     TCP      000-001 sec    16.78G"}
+{"Time":"2024-02-03T10:33:52Z","Title":"","Type":"TestResult","RemoteAddr":"::1","Protocol":"TCP","BitsPerSecond":"16.78G","ConnectionsPerSecond":"","PacketsPerSecond":"0","AverageLatency":""}
+{"Time":"2024-02-03T10:33:52Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:33:52Z","Title":"","Type":"INFO","Message":"Hint: Use -d parameter to change duration of the test."}
+{"Time":"2024-02-03T10:33:52Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:33:53Z","Title":"","Type":"INFO","Message":"Running latency test: 1000, 1"}
+{"Time":"2024-02-03T10:33:53Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"26.601us","Min":"0.000ns","P50":"556.000us","P90":"0.000ns","P95":"0.000ns","P99":"68.000us","P999":"532.800us","P9999":"550.200us","Max":"550.200us"}
+{"Time":"2024-02-03T10:33:54Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"29.325us","Min":"0.000ns","P50":"555.000us","P90":"0.000ns","P95":"0.000ns","P99":"509.300us","P999":"537.500us","P9999":"552.600us","Max":"552.600us"}
+{"Time":"2024-02-03T10:33:54Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:33:54Z","Title":"","Type":"INFO","Message":"Hint: Use -d parameter to change duration of the test."}
+{"Time":"2024-02-03T10:34:02Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:34:04Z","Title":"","Type":"INFO","Message":"[644] local ::1 port 51171 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:34:05Z","Title":"","Type":"INFO","Message":"- - - - - - - - - - - - - - - - - - - - - - -"}
+{"Time":"2024-02-03T10:34:05Z","Title":"","Type":"INFO","Message":"[  ID ]   Protocol    Interval      Bits/s"}
+{"Time":"2024-02-03T10:34:05Z","Title":"","Type":"INFO","Message":"[  644]     TCP      000-001 sec    16.99G"}
+{"Time":"2024-02-03T10:34:05Z","Title":"","Type":"TestResult","RemoteAddr":"::1","Protocol":"TCP","BitsPerSecond":"16.99G","ConnectionsPerSecond":"","PacketsPerSecond":"0","AverageLatency":""}
+{"Time":"2024-02-03T10:34:05Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:34:05Z","Title":"","Type":"INFO","Message":"Hint: Use -d parameter to change duration of the test."}
+{"Time":"2024-02-03T10:34:05Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:34:06Z","Title":"","Type":"INFO","Message":"Running latency test: 1000, 1"}
+{"Time":"2024-02-03T10:34:06Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"27.832us","Min":"0.000ns","P50":"547.400us","P90":"0.000ns","P95":"0.000ns","P99":"503.200us","P999":"536.200us","P9999":"546.900us","Max":"546.900us"}
+{"Time":"2024-02-03T10:34:07Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"30.166us","Min":"0.000ns","P50":"1.004ms","P90":"0.000ns","P95":"0.000ns","P99":"504.400us","P999":"541.500us","P9999":"552.300us","Max":"552.300us"}
+{"Time":"2024-02-03T10:34:07Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:34:07Z","Title":"","Type":"INFO","Message":"Hint: Use -d parameter to change duration of the test."}
+{"Time":"2024-02-03T10:35:20Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:35:21Z","Title":"","Type":"INFO","Message":"[628] local ::1 port 51183 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:22Z","Title":"","Type":"INFO","Message":"- - - - - - - - - - - - - - - - - - - - - - -"}
+{"Time":"2024-02-03T10:35:22Z","Title":"","Type":"INFO","Message":"[  ID ]   Protocol    Interval      Bits/s"}
+{"Time":"2024-02-03T10:35:22Z","Title":"","Type":"INFO","Message":"[  628]     TCP      000-001 sec    16.72G"}
+{"Time":"2024-02-03T10:35:22Z","Title":"","Type":"TestResult","RemoteAddr":"::1","Protocol":"TCP","BitsPerSecond":"16.72G","ConnectionsPerSecond":"","PacketsPerSecond":"0","AverageLatency":""}
+{"Time":"2024-02-03T10:35:22Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:35:22Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:35:23Z","Title":"","Type":"INFO","Message":"Running latency test: 1000, 1"}
+{"Time":"2024-02-03T10:35:23Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"27.754us","Min":"0.000ns","P50":"1.008ms","P90":"0.000ns","P95":"0.000ns","P99":"85.700us","P999":"543.500us","P9999":"565.500us","Max":"565.500us"}
+{"Time":"2024-02-03T10:35:24Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"28.340us","Min":"0.000ns","P50":"551.100us","P90":"0.000ns","P95":"0.000ns","P99":"503.300us","P999":"542.100us","P9999":"548.800us","Max":"548.800us"}
+{"Time":"2024-02-03T10:35:24Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:35:24Z","Title":"","Type":"INFO","Message":"Hint: Use -d parameter to change duration of the test."}
+{"Time":"2024-02-03T10:35:24Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:35:25Z","Title":"","Type":"INFO","Message":"[tcp] [warmup] Connection from [::1]:51185 to [::1]:8888: 543.400us"}
+{"Time":"2024-02-03T10:35:26Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [::1]:51188 to [::1]:8888: 0.000ns"}
+{"Time":"2024-02-03T10:35:27Z","Title":"","Type":"INFO","Message":"TCP connect statistics for [::1]:8888:"}
+{"Time":"2024-02-03T10:35:27Z","Title":"","Type":"INFO","Message":"  Sent = 1, Received = 1, Lost = 0"}
+{"Time":"2024-02-03T10:35:27Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"0.000ns","Min":"0.000ns","P50":"0.000ns","P90":"0.000ns","P95":"0.000ns","P99":"0.000ns","P999":"0.000ns","P9999":"0.000ns","Max":"0.000ns"}
+{"Time":"2024-02-03T10:35:28Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:35:28Z","Title":"","Type":"INFO","Message":"Hint: Use -d parameter to change duration of the test."}
+{"Time":"2024-02-03T10:35:42Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[636] local ::1 port 51205 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[640] local ::1 port 51206 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[436] local ::1 port 51207 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[416] local ::1 port 51208 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[676] local ::1 port 51209 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[704] local ::1 port 51210 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[736] local ::1 port 51211 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[748] local ::1 port 51212 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[752] local ::1 port 51213 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[768] local ::1 port 51214 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[780] local ::1 port 51215 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[800] local ::1 port 51220 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[820] local ::1 port 51221 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[856] local ::1 port 51222 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[900] local ::1 port 51225 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:43Z","Title":"","Type":"INFO","Message":"[912] local ::1 port 51226 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"- - - - - - - - - - - - - - - - - - - - - - -"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  ID ]   Protocol    Interval      Bits/s"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  636]     TCP      000-001 sec     2.48G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  640]     TCP      000-001 sec     2.25G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  436]     TCP      000-001 sec     2.54G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  416]     TCP      000-001 sec     1.94G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  676]     TCP      000-001 sec     2.31G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  704]     TCP      000-001 sec     2.38G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  736]     TCP      000-001 sec     1.91G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  748]     TCP      000-001 sec     2.30G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  752]     TCP      000-001 sec     2.20G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  768]     TCP      000-001 sec     2.18G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  780]     TCP      000-001 sec     2.08G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  800]     TCP      000-001 sec     2.12G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  820]     TCP      000-001 sec     2.21G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  856]     TCP      000-001 sec     2.14G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  900]     TCP      000-001 sec     2.21G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  912]     TCP      000-001 sec     1.77G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"[  SUM]     TCP      000-001 sec    35.03G"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"- - - - - - - - - - - - - - - - - - - - - - -"}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"TestResult","RemoteAddr":"::1","Protocol":"TCP","BitsPerSecond":"35.03G","ConnectionsPerSecond":"","PacketsPerSecond":"0","AverageLatency":""}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"Hint: Use -d parameter to change duration of the test."}
+{"Time":"2024-02-03T10:35:44Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:35:45Z","Title":"","Type":"INFO","Message":"Running latency test: 1000, 1"}
+{"Time":"2024-02-03T10:35:45Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"28.091us","Min":"0.000ns","P50":"554.000us","P90":"0.000ns","P95":"0.000ns","P99":"505.100us","P999":"541.800us","P9999":"553.400us","Max":"553.400us"}
+{"Time":"2024-02-03T10:35:46Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"27.056us","Min":"0.000ns","P50":"555.000us","P90":"0.000ns","P95":"0.000ns","P99":"503.400us","P999":"535.800us","P9999":"551.700us","Max":"551.700us"}
+{"Time":"2024-02-03T10:35:46Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:35:46Z","Title":"","Type":"INFO","Message":"Hint: Use -d parameter to change duration of the test."}
+{"Time":"2024-02-03T10:35:46Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:35:47Z","Title":"","Type":"INFO","Message":"[tcp] [warmup] Connection from [::1]:51234 to [::1]:8888: 514.600us"}
+{"Time":"2024-02-03T10:35:48Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [::1]:51235 to [::1]:8888: 0.000ns"}
+{"Time":"2024-02-03T10:35:49Z","Title":"","Type":"INFO","Message":"TCP connect statistics for [::1]:8888:"}
+{"Time":"2024-02-03T10:35:49Z","Title":"","Type":"INFO","Message":"  Sent = 1, Received = 1, Lost = 0"}
+{"Time":"2024-02-03T10:35:49Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"0.000ns","Min":"0.000ns","P50":"0.000ns","P90":"0.000ns","P95":"0.000ns","P99":"0.000ns","P999":"0.000ns","P9999":"0.000ns","Max":"0.000ns"}
+{"Time":"2024-02-03T10:35:50Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:36:04Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:36:05Z","Title":"","Type":"INFO","Message":"[620] local ::1 port 51248 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:36:05Z","Title":"","Type":"INFO","Message":"[636] local ::1 port 51249 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:36:05Z","Title":"","Type":"INFO","Message":"[640] local ::1 port 51250 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:36:05Z","Title":"","Type":"INFO","Message":"[656] local ::1 port 51251 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:36:05Z","Title":"","Type":"INFO","Message":"[668] local ::1 port 51252 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:36:05Z","Title":"","Type":"INFO","Message":"[696] local ::1 port 51253 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:36:05Z","Title":"","Type":"INFO","Message":"[720] local ::1 port 51254 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:36:05Z","Title":"","Type":"INFO","Message":"[764] local ::1 port 51255 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:36:05Z","Title":"","Type":"INFO","Message":"[776] local ::1 port 51256 connected to ::1 port 8888"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"- - - - - - - - - - - - - - - - - - - - - - -"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"[  ID ]   Protocol    Interval      Bits/s"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"[  620]     TCP      000-001 sec     7.14G"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"[  636]     TCP      000-001 sec     6.93G"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"[  640]     TCP      000-001 sec     6.98G"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"[  656]     TCP      000-001 sec     7.13G"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"[  668]     TCP      000-001 sec     7.01G"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"[  696]     TCP      000-001 sec     7.15G"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"[  720]     TCP      000-001 sec     7.13G"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"[  764]     TCP      000-001 sec     7.04G"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"[  776]     TCP      000-001 sec     7.02G"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"[  SUM]     TCP      000-001 sec    63.53G"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"- - - - - - - - - - - - - - - - - - - - - - -"}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"TestResult","RemoteAddr":"::1","Protocol":"TCP","BitsPerSecond":"63.53G","ConnectionsPerSecond":"","PacketsPerSecond":"0","AverageLatency":""}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"Hint: Use -d parameter to change duration of the test."}
+{"Time":"2024-02-03T10:36:06Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:36:07Z","Title":"","Type":"INFO","Message":"Running latency test: 1000, 1"}
+{"Time":"2024-02-03T10:36:07Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"28.743us","Min":"0.000ns","P50":"556.300us","P90":"0.000ns","P95":"0.000ns","P99":"510.200us","P999":"539.300us","P9999":"554.300us","Max":"554.300us"}
+{"Time":"2024-02-03T10:36:08Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"26.750us","Min":"0.000ns","P50":"549.100us","P90":"0.000ns","P95":"0.000ns","P99":"93.400us","P999":"536.400us","P9999":"547.700us","Max":"547.700us"}
+{"Time":"2024-02-03T10:36:08Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:36:08Z","Title":"","Type":"INFO","Message":"Hint: Use -d parameter to change duration of the test."}
+{"Time":"2024-02-03T10:36:08Z","Title":"","Type":"INFO","Message":"Using destination: localhost, ip: ::1, port: 8888"}
+{"Time":"2024-02-03T10:36:09Z","Title":"","Type":"INFO","Message":"[tcp] [warmup] Connection from [::1]:51265 to [::1]:8888: 0.000ns"}
+{"Time":"2024-02-03T10:36:10Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [::1]:51266 to [::1]:8888: 62.000us"}
+{"Time":"2024-02-03T10:36:11Z","Title":"","Type":"INFO","Message":"TCP connect statistics for [::1]:8888:"}
+{"Time":"2024-02-03T10:36:11Z","Title":"","Type":"INFO","Message":"  Sent = 1, Received = 1, Lost = 0"}
+{"Time":"2024-02-03T10:36:11Z","Title":"","Type":"LatencyResult","RemoteAddr":"::1","Protocol":"TCP","Avg":"62.000us","Min":"62.000us","P50":"62.000us","P90":"62.000us","P95":"62.000us","P99":"62.000us","P999":"62.000us","P9999":"62.000us","Max":"62.000us"}
+{"Time":"2024-02-03T10:36:12Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 1s."}
+{"Time":"2024-02-03T10:36:12Z","Title":"","Type":"INFO","Message":"Hint: Use -d parameter to change duration of the test."}

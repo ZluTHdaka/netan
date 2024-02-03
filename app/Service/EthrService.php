@@ -5,7 +5,6 @@ namespace App\Service;
 use App\Console\Commands\EthrOutputDTO;
 use App\Exceptions\EthrRuntimeException;
 use Aschmelyun\Size\Size;
-use Carbon\CarbonImmutable;
 use Symfony\Component\Process\Process;
 
 class EthrService
@@ -48,31 +47,26 @@ class EthrService
     }
 
     /**
-     * @param int $time
+     * @param float $time
      * @param string $unit
-     * @param int $precision
      * @return string
      */
     protected function normaliseTimeInterval(float $time, string $unit): string
     {
         $normalised_time = null;
-//        dd($time, $unit);
         switch ($unit){
             case 's':
-                $normalised_time = CarbonImmutable::createFromFormat('s.v', $time)->format('v');
-                dd($normalised_time, 's');
+                $normalised_time = 1000 * $time;
                 break;
             case 'ms':
-                $normalised_time = CarbonImmutable::createFromFormat('v.u', $time);
-                dd($normalised_time, 'ms');
+                $normalised_time = $time;
                 break;
             case 'us':
-                $normalised_time = CarbonImmutable::createFromFormat('u', $time)->format('v');
-                dd($normalised_time, 'us');
-                break;qq
+                $normalised_time = $time / 1000;
+                break;
         }
 
-        return round($normalised_time->millisecond, 3) . 'ms';
+        return round($normalised_time, 3) . 'ms';
 //
 //        $units = ['ps', 'us', 'ms', 's'];
 //
@@ -87,8 +81,8 @@ class EthrService
     }
 
     /**
-     * @param $value
-     * @param $unit
+     * @param float $value
+     * @param string $unit
      * @return string
      */
     protected function normaliseBytes(float $value, string $unit): string
