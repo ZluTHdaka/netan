@@ -1,0 +1,30 @@
+{"Time":"2024-01-23T10:47:55Z","Title":"","Type":"INFO","Message":"Using destination: 127.0.0.1, ip: 127.0.0.1, port: 8888"}
+{"Time":"2024-01-23T10:47:57Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp4 :0-\u003e127.0.0.1:8888: socket: The requested service provider could not be loaded or initialized."}
+{"Time":"2024-01-23T10:47:57Z","Title":"","Type":"INFO","Message":"Ethr done, connection terminated."}
+{"Time":"2024-01-23T10:51:38Z","Title":"","Type":"INFO","Message":"Using destination: 127.0.0.1, ip: 127.0.0.1, port: 8888"}
+{"Time":"2024-01-23T10:51:39Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp4 :0-\u003e127.0.0.1:8888: socket: The requested service provider could not be loaded or initialized."}
+{"Time":"2024-01-23T10:52:16Z","Title":"","Type":"INFO","Message":"Using destination: 127.0.0.1, ip: 127.0.0.1, port: 8888"}
+{"Time":"2024-01-23T10:52:17Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp4 :8889-\u003e127.0.0.1:8888: socket: The requested service provider could not be loaded or initialized."}
+{"Time":"2024-01-23T10:52:17Z","Title":"","Type":"INFO","Message":"Ethr done, connection terminated."}
+{"Time":"2024-01-23T10:54:07Z","Title":"","Type":"INFO","Message":"Using destination: 127.0.0.1, ip: 127.0.0.1, port: 8888"}
+{"Time":"2024-01-23T10:54:09Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp4 :8889-\u003e127.0.0.1:8888: socket: The requested service provider could not be loaded or initialized."}
+{"Time":"2024-01-23T10:54:09Z","Title":"","Type":"INFO","Message":"Ethr done, connection terminated."}
+{"Time":"2024-01-23T10:58:12Z","Title":"","Type":"INFO","Message":"Using destination: 127.0.0.1, ip: 127.0.0.1, port: 8888"}
+{"Time":"2024-01-23T10:58:14Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp4 :8889-\u003e127.0.0.1:8888: socket: The requested service provider could not be loaded or initialized."}
+{"Time":"2024-01-23T10:59:03Z","Title":"","Type":"INFO","Message":"Using destination: 127.0.0.1, ip: 127.0.0.1, port: 8888"}
+{"Time":"2024-01-23T10:59:04Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp4 :8889-\u003e127.0.0.1:8888: socket: The requested service provider could not be loaded or initialized."}
+{"Time":"2024-01-23T10:59:20Z","Title":"","Type":"INFO","Message":"Using destination: 127.0.0.1, ip: 127.0.0.1, port: 8888"}
+{"Time":"2024-01-23T10:59:22Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp4 :8889-\u003e127.0.0.1:8888: socket: The requested service provider could not be loaded or initialized."}
+{"Time":"2024-01-23T10:59:22Z","Title":"","Type":"INFO","Message":"Ethr done, connection terminated."}
+{"Time":"2024-01-23T11:08:19Z","Title":"","Type":"INFO","Message":"Using destination: 127.0.0.1, ip: 127.0.0.1, port: 8888"}
+{"Time":"2024-01-23T11:08:21Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp4 :8889-\u003e127.0.0.1:8888: socket: The requested service provider could not be loaded or initialized."}
+{"Time":"2024-01-23T11:08:21Z","Title":"","Type":"INFO","Message":"Ethr done, connection terminated."}
+{"Time":"2024-01-23T11:10:37Z","Title":"","Type":"INFO","Message":"Using destination: 127.0.0.1, ip: 127.0.0.1, port: 8888"}
+{"Time":"2024-01-23T11:10:47Z","Title":"","Type":"INFO","Message":"Using destination: 127.0.0.1, ip: 127.0.0.1, port: 8888"}
+{"Time":"2024-01-23T11:10:48Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp4 :0-\u003e127.0.0.1:8888: socket: The requested service provider could not be loaded or initialized."}
+{"Time":"2024-01-23T11:10:48Z","Title":"","Type":"INFO","Message":"Ethr done, connection terminated."}
+{"Time":"2024-01-23T11:25:57Z","Title":"","Type":"INFO","Message":"Using destination: 127.0.0.1, ip: 127.0.0.1, port: 8888"}
+{"Time":"2024-01-23T11:25:59Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp4 :0-\u003e127.0.0.1:8888: socket: The requested service provider could not be loaded or initialized."}
+{"Time":"2024-01-23T11:25:59Z","Title":"","Type":"INFO","Message":"Ethr done, connection terminated."}
+{"Time":"2024-01-23T12:21:40Z","Title":"","Type":"INFO","Message":"Using destination: 127.0.0.1, ip: 127.0.0.1, port: 8888"}
+{"Time":"2024-01-23T12:21:41Z","Title":"","Type":"ERROR","Message":"Error dialing connection: dial tcp4 :0-\u003e127.0.0.1:8888: socket: The requested service provider could not be loaded or initialized."}
