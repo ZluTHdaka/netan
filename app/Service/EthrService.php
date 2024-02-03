@@ -69,7 +69,7 @@ class EthrService
             case 'us':
                 $normalised_time = CarbonImmutable::createFromFormat('u', $time)->format('v');
                 dd($normalised_time, 'us');
-                break;
+                break;qq
         }
 
         return round($normalised_time->millisecond, 3) . 'ms';
