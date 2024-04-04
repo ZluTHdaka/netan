@@ -67,17 +67,6 @@ class EthrService
         }
 
         return round($normalised_time, 3) . 'ms';
-//
-//        $units = ['ps', 'us', 'ms', 's'];
-//
-//        $time = max($time, 0);
-//        $pow = floor(($time ? log($time) : 0) / log(1000));
-//        $pow = min($pow, count($units) - 1);
-//
-//        $time /= pow(1000, $pow);
-//
-//        return round($time, $precision) . $units[$pow];
-//
     }
 
     /**
